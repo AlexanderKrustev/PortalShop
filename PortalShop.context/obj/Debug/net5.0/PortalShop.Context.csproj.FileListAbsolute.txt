@@ -1,0 +1,11 @@
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\bin\Debug\net5.0\PortalShop.Context.deps.json
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\bin\Debug\net5.0\PortalShop.Context.dll
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\bin\Debug\net5.0\ref\PortalShop.Context.dll
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\bin\Debug\net5.0\PortalShop.Context.pdb
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\obj\Debug\net5.0\PortalShop.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\obj\Debug\net5.0\PortalShop.Context.AssemblyInfoInputs.cache
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\obj\Debug\net5.0\PortalShop.Context.AssemblyInfo.cs
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\obj\Debug\net5.0\PortalShop.Context.csproj.CoreCompileInputs.cache
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\obj\Debug\net5.0\PortalShop.Context.dll
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\obj\Debug\net5.0\ref\PortalShop.Context.dll
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.context\obj\Debug\net5.0\PortalShop.Context.pdb

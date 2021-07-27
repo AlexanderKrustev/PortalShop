@@ -1,0 +1,7 @@
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.server\obj\Debug\net5.0\PortalShop.server.csprojAssemblyReference.cache
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.server\obj\Debug\net5.0\PortalShop.server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.server\obj\Debug\net5.0\PortalShop.server.AssemblyInfoInputs.cache
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.server\obj\Debug\net5.0\PortalShop.server.AssemblyInfo.cs
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.server\obj\Debug\net5.0\PortalShop.server.csproj.CoreCompileInputs.cache
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.server\obj\Debug\net5.0\PortalShop.server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\a.krustev\source\repos\PortalShop\PortalShop.server\obj\Debug\net5.0\PortalShop.server.MvcApplicationPartsAssemblyInfo.cache
